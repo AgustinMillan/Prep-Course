@@ -1,0 +1,43 @@
+body{
+    background-image: url(./94-947374_m.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    height: 10%;
+    width: 50%;
+    background-color: black;
+    font-size: 50px;
+    color: azure;
+}
+h2{
+    justify-content: center;
+    font-size: 40px;
+    color: rgb(197, 197, 197);
+}
+p{
+    font-size: 20px;
+}
+
+.flex-container{
+    width: 85%;
+    background-color: rgb(48, 47, 44);
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.sector{
+    margin: 0 auto;
+    background-color: rgb(44, 42, 42);
+    width: 85%;
+    height: auto;
+    border: 15px;
+    border-color: rgb(36, 35, 35);
+}
+.contenido{
+    margin:auto;
+    justify-content: center;
+    background-color: rgb(72, 81, 88);
+    width: 95%;
+}
